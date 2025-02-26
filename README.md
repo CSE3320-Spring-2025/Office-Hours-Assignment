@@ -42,7 +42,7 @@ ASCII text files. No binary submissions will be accepted.
 
 9. No line of code shall exceed 100 characters.
 
-10. Each source code file shall have the following header filled out:
+10. [ Free Requirement ]
 
 11. All code must be well commented. 
 
