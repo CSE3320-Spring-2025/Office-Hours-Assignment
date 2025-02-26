@@ -124,3 +124,8 @@ The application takes the data file as a commandline paramter, for example:
 ./officehours test_cases/grading_test_cases/test-10.txt
 ```
 
+## Grading
+The 10 test cases in test_cases/grading_test_cases are each worth 10%
+
+## Submitting your Assignment
+To submit your assignment push all your code changes to the main branch of your repository
