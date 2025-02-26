@@ -117,3 +117,10 @@ the GitHub codespace with:
 gcc officehours.c -o office hours -lpthread
 ```
 will result in a 0.
+
+## Running the Application
+The application takes the data file as a commandline paramter, for example:
+```
+./officehours test_cases/grading_test_cases/test-10.txt
+```
+
