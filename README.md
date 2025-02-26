@@ -59,7 +59,7 @@ output shall be the output of the commands entered or the shell prompt.
 15. Your code shall compile cleanly on the GitHub codespace with no warnings
 using:
 ```
-gcc officehours.c -o office hours -lpthread
+gcc officehours.c -o officehours -lpthread
 ```
 
 ## Discussion
@@ -114,7 +114,7 @@ programs will be compiled and graded on the GitHub codespace. Please make sure t
 compile and run on omega before submitting them. Code that does not compile on
 the GitHub codespace with:
 ```
-gcc officehours.c -o office hours -lpthread
+gcc officehours.c -o officehours -lpthread
 ```
 will result in a 0.
 
